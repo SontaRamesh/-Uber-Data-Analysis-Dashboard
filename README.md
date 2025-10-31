@@ -20,8 +20,9 @@ It helps identify business patterns and improve operational efficiency through *
 ## 📊 Dashboard Pages
 
 ### 🟢 1️⃣ Overview Page
----
-<img src="overview-page.png" alt="overview-page" width="100%">
+
+![overview-page](Dashboard Files/overview-page.png)
+
 ---
 - **KPIs:** Completed Bookings, Lost Bookings, Revenue, Total Distance, Avg Distance  
 - **Monthly & Quarterly Analysis:** Bookings & Revenue trends  
