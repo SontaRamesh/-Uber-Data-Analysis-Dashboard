@@ -5,6 +5,8 @@
 The **Uber Data Analysis Dashboard** is built in **Power BI** to uncover deep insights from ride data — including **bookings, revenue, rider behavior, vehicle performance, and location trends**.  
 It helps identify business patterns and improve operational efficiency through **interactive filters and dynamic KPIs**.
 
+![home Page](Dashboard%20Files/Home-page.png)
+
 ---
 
 ## 🎯 Objectives
