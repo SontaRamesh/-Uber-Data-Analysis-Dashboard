@@ -33,7 +33,9 @@ It helps identify business patterns and improve operational efficiency through *
 
 ### 🚗 2️⃣ Vehicle Page
 ---
-<img src="vehicle-page.png" alt="vehicle-page" width="100%">
+
+[overview-page](Dashboard Files/overview-page.png)
+
 ---
 - Detailed metrics by vehicle type  
 - **KPIs:** Booking Count, Revenue, Contribution (%)  
