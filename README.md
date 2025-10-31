@@ -34,7 +34,7 @@ It helps identify business patterns and improve operational efficiency through *
 
 ### 🚗 2️⃣ Vehicle Page
 
-[vehicle-page](Dashboard%20Files/vehicle-page.png)
+![vehicle-page](Dashboard%20Files/vehicle-page.png)
 
 ---
 - Detailed metrics by vehicle type  
@@ -45,7 +45,7 @@ It helps identify business patterns and improve operational efficiency through *
 
 ### 💰 3️⃣ Revenue Page
 
-[revenue-page](Dashboard%20Files/revenue-page.png)
+![revenue-page](Dashboard%20Files/revenue-page.png)
 
 ---
 - Revenue by **Customer**, **Vehicle**, and **Payment Method**  
@@ -57,7 +57,7 @@ It helps identify business patterns and improve operational efficiency through *
 
 ### 🧍 4️⃣ Rider Page
 
-[rider-page](Dashboard%20Files/rider-page.png)
+![rider-page](Dashboard%20Files/rider-page.png)
 
 ---
 - **Cancellation reasons** by type (Customer, Driver, Incomplete)  
@@ -69,7 +69,7 @@ It helps identify business patterns and improve operational efficiency through *
 
 ### 📍 5️⃣ Location Page
 
-[location-page](Dashboard%20Files/location-page.png)
+![location-page](Dashboard%20Files/location-page.png)
 
 ---
 - **Monthly total distance** and **vehicle distribution**  
