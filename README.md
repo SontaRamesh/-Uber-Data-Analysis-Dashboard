@@ -21,7 +21,7 @@ It helps identify business patterns and improve operational efficiency through *
 
 ### 🟢 1️⃣ Overview Page
 
-![overview-page](Dashboard Files/overview-page.png)
+![Overview Page](Dashboard%20Files/overview-page.png)
 
 ---
 - **KPIs:** Completed Bookings, Lost Bookings, Revenue, Total Distance, Avg Distance  
