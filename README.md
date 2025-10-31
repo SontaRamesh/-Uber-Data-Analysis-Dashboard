@@ -33,9 +33,8 @@ It helps identify business patterns and improve operational efficiency through *
 ---
 
 ### 🚗 2️⃣ Vehicle Page
----
 
-[overview-page](Dashboard Files/overview-page.png)
+[vehicle-page](Dashboard%20Files/vehicle-page.png)
 
 ---
 - Detailed metrics by vehicle type  
@@ -45,8 +44,9 @@ It helps identify business patterns and improve operational efficiency through *
 ---
 
 ### 💰 3️⃣ Revenue Page
----
-<img src="revenue-page.png" alt="revenue-page" width="100%">
+
+[revenue-page](Dashboard%20Files/revenue-page.png)
+
 ---
 - Revenue by **Customer**, **Vehicle**, and **Payment Method**  
 - Monthly and Quarterly revenue variations  
@@ -56,8 +56,9 @@ It helps identify business patterns and improve operational efficiency through *
 ---
 
 ### 🧍 4️⃣ Rider Page
----
-<img src="rider-page.png" alt="rider-page" width="100%">
+
+[rider-page](Dashboard%20Files/rider-page.png)
+
 ---
 - **Cancellation reasons** by type (Customer, Driver, Incomplete)  
 - **Payment method impact** on ride cancellations  
@@ -67,8 +68,9 @@ It helps identify business patterns and improve operational efficiency through *
 ---
 
 ### 📍 5️⃣ Location Page
----
-<img src="location-page.png" alt="location-page" width="100%">
+
+[location-page](Dashboard%20Files/location-page.png)
+
 ---
 - **Monthly total distance** and **vehicle distribution**  
 - **Busy time slots:** 3 PM – 6 PM and 6 PM – 9 PM  
